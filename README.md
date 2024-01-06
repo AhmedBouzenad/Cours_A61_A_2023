@@ -1,2 +1,2 @@
-# Cours_A61_A_2023
+# cours-A61
 Préparation de la solution d'IA pour la mise en production
